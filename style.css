@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	padding: 40px;
+	color: #ccc;
+	font-family: sans-serif;
+}
+
+.splash h1 {
+	font-size: 2.7em;
+	letter-spacing: 1.5px;
+	margin-top: 100px;
+	font-weight: 400;
+}
